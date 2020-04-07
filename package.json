@@ -1,0 +1,20 @@
+{
+  "name": "alyx",
+  "version": "1.0.0",
+  "description": "API for autoSERV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabica/alyxAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabica/alyxAPI/issues"
+  },
+  "homepage": "https://github.com/kabica/alyxAPI#readme"
+}
