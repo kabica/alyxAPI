@@ -19,6 +19,9 @@ function App() {
           <Card />
           <Card />
         </div>
+        <div id='cara'>
+          Cara
+        </div>
       </body>
     </main>
   );
