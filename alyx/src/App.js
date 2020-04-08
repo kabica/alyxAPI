@@ -6,7 +6,13 @@ function App() {
   return (
     <main>
       <nav>
-        <img id='react' src={logo} className="App-logo" alt="logo" />
+        <div class='nav_meta' id='meta_left'>
+          <p>launch</p>
+        </div>
+        <img id='react' src={logo} alt="logo" />
+        <div class='nav_meta' id='meta_right'>
+          <p>launch</p>
+        </div>
       </nav>
       <body>
         <p>This is where some things will go, others will not.</p>
@@ -18,9 +24,6 @@ function App() {
           <Card />
           <Card />
           <Card />
-        </div>
-        <div id='cara'>
-          Cara
         </div>
       </body>
     </main>
