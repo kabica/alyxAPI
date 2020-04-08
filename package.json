@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kabica/alyxAPI/issues"
   },
-  "homepage": "https://github.com/kabica/alyxAPI#readme"
+  "homepage": "https://github.com/kabica/alyxAPI#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
