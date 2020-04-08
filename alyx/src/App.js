@@ -15,7 +15,7 @@ function App() {
         </div>
       </nav>
       <body>
-        <p>This is where some things will go, others will not.</p>
+        <p id='descrip'><strong>This is where some things will go, others will not.</strong></p>
         <div id='data'>
           <Card />
           <Card />
